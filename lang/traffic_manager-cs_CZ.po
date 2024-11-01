@@ -1,0 +1,553 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-09-18T09:26:46+00:00\n"
+"Last-Translator: Mik013 <n0lim.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: Czech Republic\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "%s visits"
+msgstr "%s návštěv"
+
+msgid "3 Year"
+msgstr "3 roky"
+
+msgid "1 Year"
+msgstr "1 rok"
+
+msgid "6 Month"
+msgstr "6 měsíců"
+
+msgid "1 Month"
+msgstr "1 měsíc"
+
+msgid "2 Week"
+msgstr "2 týdny"
+
+msgid "1 Week"
+msgstr "1 týden"
+
+msgid "Accept"
+msgstr "Přijmout"
+
+msgid "Refuse"
+msgstr "Odmítnout"
+
+msgid "The authentication with Google Analytics is successful"
+msgstr "Ověření pomocí služby Google Analytics je úspěšné"
+
+msgid "The authentication with Google Analytics have failed... please retry!"
+msgstr "Ověření pomocí služby Google Analytics se nepodařilo... prosím zopakujte!"
+
+msgid "The Google Analytics's authorization has been revoked as requested"
+msgstr "Ověření služby Google Analytics bylo zamítnuto jak bylo požadováno"
+
+msgid "Local Web Statistics"
+msgstr "Lokální Webové Statistiky"
+
+msgid "Do you want to manage the web statistics locally?"
+msgstr "Chcete spravovat webové statistiky lokálně?"
+
+msgid "If so, stats will be stored in the local SQL database. Be sure that you have free space into your database"
+msgstr "Je-li tomu tak, statistiky budou uloženy v lokální SQL databázi. Ujistěte se, že máte v databázi dostatek volného místa"
+
+msgid "The next compression of the database will occur on %s"
+msgstr "K další kompresi databáze dojde %s  "
+
+msgid "Do you want to display the last viewed pages?"
+msgstr "Chcete zobrazovat poslední prohlížené stránky?"
+
+msgid "If so, a list of the last viewed pages will be displayed including IP of the user, the url of the viewed page, the time, the referer, the browser name, the OS name, etc."
+msgstr "Pokud ano, seznam posledních prohlížených stránek bude zobrazen včetně IP adresy uživatele, adresa URL zobrazené stránky, času, zdroje, jména prohlížeče, názevu OS, atd."
+
+msgid "How many pages should be displayed?"
+msgstr "Kolik stránek by mělo být zobrazeno?"
+
+msgid "How many days do you want to keep detailed info in your database?"
+msgstr "O kolika dnech chcete v databázi ponechat podrobnější informace?"
+
+msgid "All detailled info will be used for the geolocation (see below)."
+msgstr "Všichny detailní informace budou použity pro geolokaci (viz níže)."
+
+msgid "It is recommended to keep the detailled information no more than %s days."
+msgstr "Je doporučeno, neponechávat detailní informace více než %s dní."
+
+msgid "Show statistics on number of visits and viewed pages?"
+msgstr "Zobrazit statistiku o počtu návštěv a zobrazených stránek?"
+
+msgid "Show statistics on the OS and browser types of your visitors?"
+msgstr "Zobrazit statistické údaje o typu operačního systému a prohlížeči vašich návštěvníků?"
+
+msgid "What are the period for which charts should be provided?"
+msgstr "Pro jak dlouhé období by měly být dostupné grafy?"
+
+msgid "Do you want to track the logged user?"
+msgstr "Chcete sledovat i přihlášeného uživatele?"
+
+msgid "Show the number of current connected users on your website"
+msgstr "Zobrazit počet aktuálně připojených uživatelů na vašich webových stránkách"
+
+msgid "Configure the local statistics to be compatible with French CNIL's recommandations"
+msgstr "Konfigurovat lokální statistiky tak, aby byly kompatibilní s francouzskými doporučeními CNIL"
+
+msgid "The last two bytes of the IP will be masked and a small banner to allow the user to refuse cookies will be displayed on the front side."
+msgstr "Poslední dva bajty IP adresy budou maskovány a malý banner bude zobrazen na domovské stránce. aby umožnil uživatelům odmítnout cookies."
+
+msgid "The HTML to be displayed for the banner to be compatible with French CNIL's recommandations."
+msgstr "HTML, které se zobrazí na banneru, je slučitelné s francouzskými CNIL doporučeními."
+
+msgid "The French CNIL recommends to add buttons in a page to inform the users that he can refuse / allow the cookies (in addition of the banner)."
+msgstr "Francouzský CNIL doporučuje přidat na stránku tlačítka umožňující uživateli odmítnout / povolit cookies (navíc kromě samotného banneru)."
+
+msgid "You can add these buttons in any posts/pages with this code %s."
+msgstr "Můžete tato tlačítka přidat na jakémkoli příspěvku / stránce pomocí tohoto kódu %s."
+
+msgid "Use %s to know from where your users are."
+msgstr "Použijte %s aby jste věděli, odkud jsou vaši uživatelé."
+
+msgid "The API key for %s."
+msgstr "Klíč API pro %s."
+
+msgid "You have to create your own key on %s."
+msgstr "Musíte vytvořit svůj vlastní klíč na %s."
+
+msgid "You API key appears to be correct."
+msgstr "Váš klíč API se zdá být správný."
+
+msgid "Your server appears to be located in %s."
+msgstr "Zdá se, že se váš server nachází v %s."
+
+msgid "There was a problem while contacting the server."
+msgstr "Při kontaktování serveru došlo k problému."
+
+msgid "Show the World map."
+msgstr "Zobrazit mapu světa."
+
+msgid "Show the European map."
+msgstr "Zobrazit mapu Evropy."
+
+msgid "Show a state map."
+msgstr "Zobrazit mapu státu."
+
+msgid "This is a comma separated list."
+msgstr "Jedná se o seznam oddělený čárkami."
+
+msgid "Use %s for the Argentina map."
+msgstr "Použijte %s pro mapu Argentiny."
+
+msgid "Use %s for the Australia map."
+msgstr "Použijte %s pro mapu Austrálie."
+
+msgid "Use %s for the Austria map."
+msgstr "Použijte %s pro mapu Rakouska."
+
+msgid "Use %s for the Beligium map."
+msgstr "Použijte %s pro mapu Belgie."
+
+msgid "Use %s for the Canadia map."
+msgstr "Použijte %s pro mapu Kanady."
+
+msgid "Use %s for the Chinese map."
+msgstr "Použijte %s pro mapu Číny."
+
+msgid "Use %s for the Colombian map."
+msgstr "Použijte %s pro mapu Kolumbie."
+
+msgid "Use %s for the Denmark map."
+msgstr "Použijte %s pro mapu Dánska."
+
+msgid "Use %s for the France map."
+msgstr "Použijte %s pro mapu Francie."
+
+msgid "Use %s for the Germany map."
+msgstr "Použijte %s pro mapu Německa."
+
+msgid "Use %s for the India map."
+msgstr "Použijte %s pro mapu Indie."
+
+msgid "Use %s for the Italy map."
+msgstr "Použijte %s pro mapu Itálie."
+
+msgid "Use %s for the Netherlands map."
+msgstr "Použijte %s pro mapu Nizozemí."
+
+msgid "Use %s for the New Zealand map."
+msgstr "Použijte %s pro mapu Nového Zélandu."
+
+msgid "Use %s for the Norway map."
+msgstr "Použijte %s pro mapu Norska."
+
+msgid "Use %s for the Philippines map."
+msgstr "Použijte %s pro mapu Filipín."
+
+msgid "Use %s for the Poland map."
+msgstr "Použijte %s pro mapu Polska."
+
+msgid "Use %s for the Portugal map."
+msgstr "Použijte %s pro mapu Portugalska."
+
+msgid "Use %s for the South Africa map."
+msgstr "Použijte %s pro mapu jižní Afriky."
+
+msgid "Use %s for the Spain map."
+msgstr "Použijte %s pro mapu Španělska."
+
+msgid "Use %s for the Sweden map."
+msgstr "Použijte %s pro mapu Švédska."
+
+msgid "Use %s for the Switzerland map."
+msgstr "Použijte %s pro mapu Švýcarska."
+
+msgid "Use %s for the Thailand map."
+msgstr "Použijte %s pro mapu Thaiska."
+
+msgid "Use %s for the UK map."
+msgstr "Použijte %s pro mapu Velké Británie."
+
+msgid "Use %s for the USA map."
+msgstr "Použijte %s pro mapu USA."
+
+msgid "Use %s for the Venezuela map."
+msgstr "Použijte %s pro mapu Venezuely."
+
+msgid "Google Analytics Web Statistics"
+msgstr "Google Analytics Web Statistics"
+
+msgid "Do you want to manage the web statistics with Google Analytics?"
+msgstr "Chcete spravovat webové statistiky pomocí Google Analytics?"
+
+msgid "For additional information, please visit the %s website. Moreover you could see all your authorized accesses on this %spage%s."
+msgstr "Pro další informace navštivte webové stránky na adrese %s. Více můžete vidět po vašem autorizovaném přistupu na této %sstránce%s."
+
+msgid "Google Analytics ID:"
+msgstr "Google Analytics ID:"
+
+msgid "The Google Analytics ID is should be similar to %s."
+msgstr "ID služby Google Analytics by mělo vypadat asi takto %s."
+
+msgid "You may also %sauthenticate%s with your Google account and thus ease the process."
+msgstr "Můžete se také %sověřit%s pomocí svého účtu Google Analytics, a tím usnadnit proces."
+
+msgid "For now, this page is authenticated with your Google Analytics accounts. %sUnapprove the authentication%s"
+msgstr "V tuto chvíli, je tato stránka ověřena s vašimi Google Analytics účty. %sZrušit schválené ověření%s"
+
+msgid "Select..."
+msgstr "Vyberte..."
+
+msgid "Choose your website in this list"
+msgstr "Vyberte si své webové stránky v tomto seznamu"
+
+msgid "Please note that the Google Analytics ID for %s is %s."
+msgstr "Upozorňujeme, že Google Analytics ID pro %s je %s."
+
+msgid "No Google Analytics ID configured for now."
+msgstr "V tuto chvíli není žádné Google Analytics ID nakonfigurováno."
+
+msgid "Do you want to use the %s?"
+msgstr "Chcete použít %s?"
+
+msgid "What is the API key?"
+msgstr "Jaký je API klíč?"
+
+msgid "This API key is useful to avoid any quota limit. If you do not set this key, only very few requests may be allowed by Google"
+msgstr "Tento API klíč je užitečný, aby se předešlo jakémukoli omezení kvóty. Pokud nenastavíte tento klíč, jen velmi málo žádostí může být povoleno Googlem."
+
+msgid "To get this API key, please visit %s, create a projet, allow Google Analytics, and then go to API console to get a %s"
+msgstr "Chcete-li získat tento API klíč, navštivte %s, vytvořte projet, povolte Google Analytics, a pak v konzoli API, získejte %s"
+
+msgid "Support Display Advertising for Google (only if Universal Analytics is not activated)?"
+msgstr "Podporovat zobrazení inzerce pro Google (pouze pokud není aktivován Universal Analytics)?"
+
+msgid "This option is to enable Remarketing with Google Analytics or Google Display Network (GDN) Impression Reporting."
+msgstr "Tato volba umožňuje remarketing s Google Analytics nebo Google Display Network (GDN) Impression Reporting."
+
+msgid "Configure the Google Analytics statistics to be compatible with French CNIL's recommandations"
+msgstr "Nastavtit Google Analytics statistiky, aby byly kompatibilní s francouzskými doporučeními CNIL"
+
+msgid "A small banner will be displayed to allow cookies (by default, no cookie will be used)"
+msgstr "Malý banner bude zobrazen pro povolení souborů cookies (ve výchozím nastavení nebudou cookies použity)"
+
+msgid "Sitemaps Configuration"
+msgstr "Sitemaps nastavení"
+
+msgid "Do you want to compute a Sitemaps file?"
+msgstr "Chcete vytvořit Sitemaps soubor?"
+
+msgid "A Sitemap is an XML file that lists the URLs for your website. It informs search engines about URLs on your website that are available for crawling."
+msgstr "Sitemap je XML soubor, který uvádí adresy URL pro vaše webové stránky. Informuje vyhledávače o adresách URL na vašich webových stránkách, které jsou dostupné pro procházení."
+
+msgid "No sitemap has been generated yet."
+msgstr "Dosud nebyl vygenerován žádný Sitemap soubor."
+
+msgid "An error occured on the next sitemap generation : %s."
+msgstr "Při generování dalšího Sitemap souboru došlo k chybě : %s."
+
+msgid "The last sitemap has been generated on %s."
+msgstr "Poslední Sitemap soubor byl vytvořen %s"
+
+msgid "You may see your sitemap at %s."
+msgstr "Váš Sitemap soubor můžete vidět na %s."
+
+msgid "How many posts and pages will be included in this file?"
+msgstr "Kolik příspěvků a stránek bude zahrnuto do tohoto souboru?"
+
+msgid "If you have too many posts, set this number to 1000 for instance in order to avoid any memory issue. If you set this number to 0, all posts will be included."
+msgstr "Máte-li příliš mnoho příspěvků, nastavte toto číslo například na 1000, aby se předešlo jakémukoli problému s pamětí. Nastavíte-li toto číslo na 0, budou zahrnuty všechny příspěvky."
+
+msgid "Do you want to notify %s when the sitemap is updated?"
+msgstr "Chcete upozornit %s při aktualizaci Sitemap souboru?"
+
+msgid "%s has never been notified yet. Waiting for the next update."
+msgstr "%s nebyl doposud upozorněn. Čeká se na další aktualizaci."
+
+msgid "An error occured when notifying %s for the last time."
+msgstr "Při posledním pokusu o upozornění %s došlo k chybě."
+
+msgid "%s has be notified for the last time on %s."
+msgstr "%s byl naposledy upozorněn %s."
+
+msgid "Improve your SEO with metatags"
+msgstr "Zlepšete své SEO s metatagy"
+
+msgid "Do you want to add metatag to your page/post"
+msgstr "Chcete přidat značku metadat ke svým stránkám / příspěvkům"
+
+msgid "Meta tags are snippets of code on a web page. They offer information about a page (metadata) in an invisible way but may enhanced the SEO (Search Engine Optimization) of your website."
+msgstr "Meta tagy jsou úryvky kódu na webové stránce. Nabízejí informace o stránce (metadata) v neviditelné formě, ale mohou zlepšit SEO (Search Engine Optimization) vašich webových stránkek."
+
+msgid "Add meta title"
+msgstr "Přidat meta title (titulek)"
+
+msgid "Add meta description"
+msgstr "Přidat meta description (popis)"
+
+msgid "Add meta copyright"
+msgstr "Přidat meta copyright (autorské právo)"
+
+msgid "It will be by default: %s."
+msgstr "Ve výchozím nastavení to bude: %s."
+
+msgid "Override the copyright of the website:"
+msgstr "Přepsat autorská práva webové stránky:"
+
+msgid "Add meta author"
+msgstr "Přidat meta author (autor)"
+
+msgid "Override the author name"
+msgstr "Přepsat jméno autora"
+
+msgid "Add meta date (publication date, modification date, etc.)"
+msgstr "Přidat meta date (datum zveřejnění, aktualizace, atd.)"
+
+msgid "Add meta keywords (category, keywords, etc.)"
+msgstr "Přidat meta keywords (klíčová slova)"
+
+msgid "Add meta table of content"
+msgstr "Přidat meta table of content (tabulka obsahu)"
+
+msgid "Add meta images"
+msgstr "Přidat meta images (obrázky)"
+
+msgid "from %s to %s"
+msgstr "z %s do %s"
+
+msgid "The number of current user is %s"
+msgstr "Aktuální počet uživatelů je %s"
+
+msgid "Current users"
+msgstr "Aktuální uživatelé"
+
+msgid "Week %s (%s)"
+msgstr "Týden %s (%s)"
+
+msgid "%s %s"
+msgstr "%s %s"
+
+msgid "Google Analytics Data"
+msgstr "Google Analytics Data"
+
+msgid "According to Google Analytics Data, here is the number of visits and the number of page views."
+msgstr "Počet návštěv a počet zobrazení stránek podle údajů z Google Analytics."
+
+msgid "Today, %s people have visited your site and %s pages have been viewed (%s and %s for yesterday)."
+msgstr "Dnes vaše stránky navštívilo %s lidí a bylo zobrazeno %s stránek (%s a %s za včerejšek)."
+
+msgid "This week, %s people have visited your site and %s pages have been viewed (%s and %s for last week)."
+msgstr "Tento týden vaše stránky navštívilo %s lidí a bylo zobrazeno %s stránek (%s a %s za minulý týden)."
+
+msgid "This month, %s people have visited your site and %s pages have been viewed (%s and %s for last month)."
+msgstr "Tento měsíc vaše stránky navštívilo %s lidí a bylo zobrazeno %s stránek (%s a %s za minulý měsíc)."
+
+msgid "NOTA: Google considers that the week starts on sundays which is not ISO 8601 compliant (normally starts on mondays). So be careful when comparing weeks with your calendar: week numbers may be sligthly different."
+msgstr "NOTA: Google se domnívá, že týden začíná v neděli, což není v souladu s ISO 8601 (obvykle začíná v pondělí). Takže buďte opatrní při porovnávání týdnů s vaším kalendářem: týdenní čísla mohou být lehce odlišná."
+
+msgid "Local Data"
+msgstr "Lokální data"
+
+msgid "According to Local Data, here is the number of visits and the number of page views."
+msgstr "Počet návštěv a počet zobrazení stránek podle údajů z lokálních dat."
+
+msgid "Visits Count"
+msgstr "Počet návštěv"
+
+msgid "According to Google Analytics Data, here is the distribution of browser types and OS."
+msgstr "Zde je rozvržení typů prohlížečů a OS podle údajů z Google Analytics."
+
+msgid "According to Local Data, here is the distribution of browser types and OS."
+msgstr "Zde je rozvržení typů prohlížečů a OS podle údajů z lokálních dat."
+
+msgid "Browser and OS Statistics"
+msgstr "Statistiky prohlížečů a operačních systémů"
+
+msgid "Geolocalisation of visits/visitors during the last %s days"
+msgstr "Geolokace návštěv / návštěvníků během posledních %s. dní"
+
+msgid "Time"
+msgstr "Čas"
+
+msgid "IP Address"
+msgstr "IP adresa"
+
+msgid "Viewed Page"
+msgstr "Zobrazená stránka"
+
+msgid "Browser"
+msgstr "Prohlížeč"
+
+msgid "OS"
+msgstr "Operační systém"
+
+msgid "Referer"
+msgstr "HTTP referrer"
+
+msgid "Time spent"
+msgstr "Strávený čas"
+
+msgid "Please note that the current local time of the server is %s. If it is not correct, please set the Wordpress installation correctly."
+msgstr "Upozorňujeme, že aktuální lokální čas serveru je %s. Pokud to nesouhlasí, prosíme, zkontrolujte správnost konfigurace Wordpress instalace."
+
+msgid "If the entry is displayed for the first time, the time field will be in bold characters."
+msgstr "Je-li položka zobrazena poprvé, pole čas bude tučnými znaky."
+
+msgid "If the user accesses your website for the first time today, the IP field will be in blod characters."
+msgstr "V případě, že uživatel přistupuje na vaše webové stránky dnes poprvé, bude pole IP adresa tučnými znaky."
+
+msgid "Unknown keywords."
+msgstr "Neznámá klíčová slova."
+
+msgid "Plugin: %s"
+msgstr "Plugin: %s"
+
+msgid "Plugin: %s, website: %s"
+msgstr "Plugin: %s, webová stránka : %s"
+
+msgid "No data for now... Please wait until someone visits your website"
+msgstr "Pro tuto chvíli zatím žádná data... Počkejte, až někdo navštíví vaše webové stránky"
+
+msgid "Details on the Last %s Viewed Pages"
+msgstr "Podrobnosti o posledních %s. zobrazených stránkách"
+
+msgid "You have configured no graph... Please go on the parameters tab to configure them."
+msgstr "Nenakonfigurovali jste žádný graf... Pro jeho nastavení prosím, přejděte na záložku Nastavení."
+
+msgid "Web Statistics"
+msgstr "Webové Statistiky"
+
+msgid "Parameters"
+msgstr "Nastavení"
+
+msgid "This plugin enables the improving of your traffic by supervising it and by helping the web crawlers to identify your contents to be indexed."
+msgstr "Tento plugin umožňuje zlepšování vašeho provozu a dohledu nad ním a pomáhá webovým vyhledávačům s ​​identifikaci vašeho obsahu, který má být indexován."
+
+msgid "Purpose of that plugin"
+msgstr "Účel tohoto pluginu"
+
+msgid "In order to help the web crawlers to identifify the contents you want to share, this plugin creates a file named %s and a compressed file %s that list the different url to be indexed with a weight."
+msgstr "S cílem pomoci webovým procházecím modulům (robotům) s identifikací obsahu který chcete sdílet, tento plugin vytváří soubor s názvem %s a komprimovaný soubor %s, který uvádí jiné URL adresy, které mají být indexovány s vyšší vahou."
+
+msgid "The updates of these files may be notified to the following crawlers:"
+msgstr "Aktualizace těchto souborů může být oznámena následujícím robotům:"
+
+msgid "You also may add some %s to your headers. These tags helps the crawler to understand the page."
+msgstr "Můžete také přidat nějaké %s do hlaviček. Tyto značky pomáhají robotům pochopit obsah stránky."
+
+msgid "How to help web crawlers?"
+msgstr "Jak pomoci robotům?"
+
+msgid "This plugin also enables the creation of a chart that summarize the traffic volume on your server (either thanks to a local database or thanks to %s)."
+msgstr "Tento modul také umožňuje vytváření grafů, které shrnují objem provozu na vašem serveru (buď díky lokální databázi nebo díky %s)."
+
+msgid "Supervising the traffic"
+msgstr "Dohled nad návštěvností"
+
+msgid "This plugin may be render compliant with %s recommandation regarding personal data management."
+msgstr "Tento plugin může poskytnout soulad s %s doporučeními o nakládání s osobními údaji."
+
+msgid "Then, if you use local database, a warning will be display to indicate that the plugin use some cookies and the two last bytes of the IP address will be masked."
+msgstr "Dále, pokud používáte lokální databázi, bude zobrazena výstraha na znamení, že plugin používá nějaké cookies a poslední dva bajty IP adresy budou maskovány."
+
+msgid "If you use %s, the system will work only for users that accept to explicitely accept this system thanks to a popup system."
+msgstr "Pokud používáte %s, systém bude fungovat pouze pro uživatele, kteří výslovně odsouhlasí tento systém pomocí pop-up systému."
+
+msgid "Compliance with Personal data management"
+msgstr "Dodržování a nakládání s osobními daty"
+
+msgid "How To"
+msgstr "Jak na to"
+
+msgid "Manage translations"
+msgstr "Správa překladů"
+
+msgid "Give feedback"
+msgstr "Zpětná vazba"
+
+msgid "Other plugins"
+msgstr "Další pluginy"
+
+msgid "Google states that the User Rate Limit has been exceeded!"
+msgstr "Google uvádí, že byl překročen User Rate Limit!"
+
+msgid "In order to avoid User Rate Limit, you should get an API key."
+msgstr "Aby jste předešli User Rate Limit, měli byste získat API klíč."
+
+msgid "Once a key generated, please configure it in the configuration tab."
+msgstr "Jakmile máte klíč vygenerovaný, prosím použijte jej v konfiguraci v záložce Nastavení."
+
+msgid "If you have just saved the API key in the parameters, please reload the page and it shoud work."
+msgstr "Pokud jste právě uložili API klíč v nastaveních, prosím obnovte stránku aby se změny projevily."
+
+msgid "The authorization seems to have expired or has been revoked. Please revoke the authorization (see below) and re-authentify!"
+msgstr "Zdá se, že povolení vypršelo nebo bylo zrušeno. Prosím, zrušte povolení (viz níže) a re-authentify!"
+
+msgid "An unknown error occured during the API request"
+msgstr "Při žádosti o API došlo k neznámé chybě"
+
+msgid "No token provided!"
+msgstr "Nebyl poskytnut žádný token."
+
+msgid "No website selected for Google statistics (see the parameter tab)!"
+msgstr "Pro Google statistiku nebyla vybrána žádná webová stránka (viz záložka Nastavení)!"
+
+msgid "No website selected!"
+msgstr "Nebyla vybrána žádná webová stránka!"
+
+msgid "The file %s cannot be created. Please make sure that the file rights allow writing in the following folder: %s"
+msgstr "Soubor %s nemůže být vytvořen. Ujistěte se, že v následující složce: %s jsou dostatečná práva umožňující zápis."
+
+msgid "Problem with folder rights on %s"
+msgstr "Problém s právy u složky %s"
+
